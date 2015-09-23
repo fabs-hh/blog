@@ -3,7 +3,7 @@
   <div class="wrapper">
 
     <a class="site-header__link" href="{{ site.baseurl }}/">
-      <img class="site-logo" src="{{ site.logo }}" alt="{{ site.title }}">
+      <img class="site-logo" src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
       <span class="site-title">{{ site.title }}</span>
     </a>
 
