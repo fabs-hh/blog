@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Best practices writing CSS (Talk by Mark Otto, jQuery UK"
+title:  "Best practices writing CSS (Talk by Mark Otto, jQuery UK)"
 date:   2015-09-24 12:14:55
 categories: News
 ---
