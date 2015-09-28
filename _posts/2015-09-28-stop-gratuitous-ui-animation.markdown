@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stop Gratuitous UI Animation"
-date:   2015-09-24 12:14:55
+date:   2015-09-28 17:14:55
 categories: News
 ---
 
