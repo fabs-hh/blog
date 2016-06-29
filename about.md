@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-**fabs-hh** stands for "abulous frontend labs" and is for everyone who is interested into frontend topics.
+**fabs-hh** stands for "fabulous frontend labs" and is for everyone who is interested into frontend topics.
  
-We want to share all of experiences, outcomes, interesting articles, packages,.. - all, which is relevant for frontend UX, development or visual design.
+We want to share all of experiences, outcomes, interesting articles, packages,.. - all, which is relevant for frontend, UX, development or visual design.
